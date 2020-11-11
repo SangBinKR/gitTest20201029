@@ -13,6 +13,5 @@
 <h1>test</h1>
 <h1>eclipse test2</h1>
     <h1>github test2</h1>
-    <h1>한상빈도비도비도비도비 유후후후</h1>
 </body>
 </html>
